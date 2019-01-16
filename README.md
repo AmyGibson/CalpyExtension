@@ -1,7 +1,7 @@
 # CalpyExtension
 work for the Florence project
 
-This is a few extendsion file to the conversation library Calpy.
+These are a few extendsion files to the conversation library Calpy https://github.com/YvonneYYu/calpy
 
 These extendion allows the user to 
 1. extract the pause information within a monologue and export the list in the from of csv with start time, duration and end time
